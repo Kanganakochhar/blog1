@@ -1,0 +1,14 @@
+body {
+    background-color: #020d6e;
+    text-align: center;
+    font-size: 18px;
+}
+
+.sp,
+.di {
+    margin: 20px;
+}
+
+img {
+    width: 20%
+}
